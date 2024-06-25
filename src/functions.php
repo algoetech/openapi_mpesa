@@ -1,6 +1,6 @@
 <?php
 
-if (! function_exists('pesa')) {
+if (! function_exists('openapimpesa')) {
     /**
      * Get the pesa instance.
      *
@@ -8,6 +8,6 @@ if (! function_exists('pesa')) {
      */
     function pesa()
     {
-        return app('pesa');
+        return app('openapimpesa');
     }
 }

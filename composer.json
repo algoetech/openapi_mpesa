@@ -28,12 +28,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "Algoetech\\OpenapiMpesa\\": "src/"
+            "Algoetech\\OpenapiMPesa\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Algoetech\\OpenapiMpesa\\Tests\\": "tests/"
+            "Algoetech\\OpenapiMPesa\\Tests\\": "tests/"
         }
     },
     "scripts": {

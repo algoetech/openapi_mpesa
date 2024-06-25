@@ -1,8 +1,8 @@
 <?php
 
-namespace Algoetech\OpenapiMpesa\Tests;
+namespace Algoetech\OpenapiMPesa\Tests;
 
-use Algoetech\OpenapiMpesa\AlgoetechOpenApiMPesaServiceProvider as AETProvider;
+use Algoetech\OpenapiMpesa\OpenApiMPesaServiceProvider as AETProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra

@@ -6,6 +6,6 @@ namespace Algoetech\OpenapiMpesa\Exceptions;
 
 use \Exception;
 
-class AlgoetechOpenapiMpesaException extends Exception {
+class OpenapiMpesaException extends Exception {
     
 }
